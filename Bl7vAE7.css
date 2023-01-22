@@ -1,0 +1,53 @@
+/**
+ * @name custom1
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://wallpaperaccess.com/full/4137971.jpg');
+  --background-image-blur: 15px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://img4.goodfon.com/wallpaper/big/0/46/love-money-rocknroll-tokyo-street-night-gorod-ulitsa-zviozdy.jpg');
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://img4.goodfon.com/wallpaper/big/0/46/love-money-rocknroll-tokyo-street-night-gorod-ulitsa-zviozdy.jpg');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.36;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.4;
+  --overlay-brightness: 0.8;
+  --gradient-primary: 92,0,255;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 156,39,176;
+  --tint-brightness: 0;
+  --window-padding: 4px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
